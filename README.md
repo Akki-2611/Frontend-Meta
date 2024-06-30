@@ -1,6 +1,6 @@
 # Frontend-Meta
 This document showcases how to create a simple Solidity smart contract with functions and interact with it from a basic frontend to display the values.
-## Technologies Used:
+## Technologies Used
 -Solidity: A programming language for building smart contracts on the Ethereum blockchain.
 -Remix: An online Solidity IDE for development and testing.
 -HTML, CSS, and JavaScript: Front-end technologies for displaying contract data.
